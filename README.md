@@ -13,5 +13,5 @@ After that, please make a commit. Take care to avoid collision with other contri
 
 6.-Jose Fernando Gómez
 
-15. Javier Felipe
+15.- Javier Felipe
 
